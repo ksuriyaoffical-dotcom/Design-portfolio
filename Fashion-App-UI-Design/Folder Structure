@@ -1,1 +1,25 @@
-
+Fashion-App-UI-Design/
+│
+├── 📁 Figma Files/
+│   └── fashion-app-design.fig
+│
+├── 📁 Images/
+│   ├── preview-1.jpg
+│   ├── preview-2.jpg
+│   └── preview-3.jpg
+│
+├── 📁 Exported Screens/
+│   ├── onboarding-screen.png
+│   ├── home-screen.png
+│   ├── product-page.png
+│   └── cart-page.png
+│
+├── 📁 Assets/
+│   ├── icons/
+│   ├── fonts/
+│   └── color-palette.txt
+│
+├── 📁 Documentation/
+│   └── README.md
+│
+└── README.md
