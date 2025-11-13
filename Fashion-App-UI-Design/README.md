@@ -5,7 +5,7 @@ A modern and elegant mobile fashion shopping app UI designed in Figma.
 ---
 
 ## 📸 Preview
-![Fashion App Preview] <img width="1366" height="768" alt="1 (1)" src="https://github.com/user-attachments/assets/c52ad8ac-1c37-4ccf-b5ed-dce93eb11a8d" />
+[Fashion App Preview] <img width="1366" height="768" alt="1 (1)" src="https://github.com/user-attachments/assets/c52ad8ac-1c37-4ccf-b5ed-dce93eb11a8d" />
 
 ---
 
