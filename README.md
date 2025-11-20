@@ -1,2 +1,2 @@
-# Design-portfolio
-A collection of my UI/UX, web, and mobile app design projects created using Figma, Canva, and Adobe tools. Focused on modern, clean, and user-centered interfaces.
+# Creative Designer
+"Creative Designer Portfolio — Logos, Branding, UI/UX, Social Media, Web Design, and Complete Visual Design Projects."
