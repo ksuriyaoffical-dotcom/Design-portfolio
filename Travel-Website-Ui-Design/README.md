@@ -17,6 +17,7 @@ Attractive hero banner with travel-themed graphics
 Clean color theme with blue & purple highlights
 Ideal for UI/UX practice or HTML/CSS beginner projects
 
+
 Designer:
 # suriya
 UI/UX Design
