@@ -18,6 +18,6 @@ Clean color theme with blue & purple highlights
 Ideal for UI/UX practice or HTML/CSS beginner projects
 
 
-Designer:
-# suriya
+
+# Designer BY :Suriya
 UI/UX Design
